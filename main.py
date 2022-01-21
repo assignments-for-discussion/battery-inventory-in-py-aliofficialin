@@ -5,7 +5,7 @@ def test_bucketing_by_number_of_cycles():
   counts=[]
   counts=cycles
   for i in counts(len(counts)):
-  if(counts[i]>400):
+  if(counts[i]<400):
       append(a[i])
     elif(a[i]<920):
       append(a[i])
